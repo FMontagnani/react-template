@@ -2,14 +2,14 @@
 
 After cloning the repository just run `npm install`
 
-## CI
+# CI
 
-# Commit Messages
+## Commit Messages
 
 Commit messages must comply to conventional commits (Angular).
 For more information: (https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
-# Coverage Threshold
+## Coverage Threshold
 
 Any new code must be tested and reaching minimum threshold of:
 
@@ -18,7 +18,7 @@ functions: 80%
 lines: 80%
 statements: 80%
 
-# Getting Started with Create React App
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
