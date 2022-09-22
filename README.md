@@ -13,12 +13,14 @@ For more information: (https://github.com/angular/angular/blob/22b96b9/CONTRIBUT
 
 Any new code must be tested and reaching minimum threshold of:
 
-branches: 80%
-functions: 80%
-lines: 80%
-statements: 80%
+| Item     |  %  |
+|----------|-----|
+|branches  | 80% |
+|functions | 80% |
+|lines     | 80% |
+|statements| 80% |
 
-#Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
